@@ -1,4 +1,4 @@
-# COVID-19 Public behavior sentiment and attention Public Behavior Analysis under the COVID-19 Emergency——Based on Weibo Mining
+# Public behavior sentiment and attention Public Behavior Analysis under the COVID-19 Emergency——Based on Weibo Mining
 疫情期间完成的一些工作，时间紧张，自己也没这方面的研究经验，没有投出去。大家感兴趣的话，可以参考一下。
 NLP部分的模型不是特别复杂，都是一些传统常用的模型
 数据见https://github.com/nghuyong/weibo-public-opinion-datasets
@@ -29,7 +29,7 @@ If you use this work in a scientific publication, I would appreciate that you ca
 
 
 `@misc{hyliu2020@COVID-19-Public-behavior-sentiment-and-attention,
-  title=COVID-19-Public-behavior-sentiment-and-attention-Public-Behavior-Analysis-under-the-COVID-19-Emergency——Based on Weibo Mining},
+  title=Public-behavior-sentiment-and-attention-Public-Behavior-Analysis-under-the-COVID-19-Emergency——Based on Weibo Mining},
   author={Hengyuan Liu},
   howpublished={\url{https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention}},
   year={2020}
