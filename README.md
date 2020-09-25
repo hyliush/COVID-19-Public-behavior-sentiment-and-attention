@@ -22,7 +22,7 @@ The study found that public sentiment experienced three states: continuous fluct
 ![词频统计](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/词频统计1.png)
 
 
-![区域差异](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/合并.png)
+![区域差异](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/合并.jpg)
 
 ## Citation
 If you use this work in a scientific publication, I would appreciate that you can also cite the following BibTex entry:
