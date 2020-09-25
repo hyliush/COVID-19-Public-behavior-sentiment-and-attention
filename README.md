@@ -14,13 +14,13 @@ This paper used machine learning to identify 244,880 microblog posts from 345 ci
 公众情绪经历了持续波动、上升，稳定正面三种状态；公众对新冠肺炎疫情的关注趋势表现为低关注、关注波动、逐渐上升和逐渐下降四个阶段；公众情绪在不同阶段均存在显著差异，对疫情的关注度在部分阶段存在差异；公众行为和区域位置相关，表现为公众所在地与重灾区接近程度和情感指数呈显著负相关，所在地经济发展水平和关注指数呈显著正相关。
 ## 【Result/conclusion】
 The study found that public sentiment experienced three states: continuous fluctuation, rising, and stable positive; the public’s attention to the trend of the Novel coronavirus pneumonia showed four stages: low attention, fluctuation of concern, gradual rise, and gradual decline; there are significant differences in public sentiment in different stages, and the degree of attention to the epidemic differs in some stages; public behavior is related to regional location, which was shown by the close negative correlation between distance from the severely affected area and the sentiment index, and the level of economic development of the location and the focus index showed a significant positive correlation.
-![Alt text](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/走势图.png)
+![走势图](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/走势图.png)
 
 
-![Alt text](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/词频统计1.png)
+![词频统计](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/词频统计1.png)
 
 
-![Alt text](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/合并.png)
+![区域差异](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/合并.png)
 
 ## Citation
 If you use this work in a scientific publication, I would appreciate that you can also cite the following BibTex entry:
