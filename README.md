@@ -16,13 +16,13 @@ This paper used machine learning to identify 244,880 microblog posts from 345 ci
 The study found that public sentiment experienced three states: continuous fluctuation, rising, and stable positive; the public’s attention to the trend of the Novel coronavirus pneumonia showed four stages: low attention, fluctuation of concern, gradual rise, and gradual decline; there are significant differences in public sentiment in different stages, and the degree of attention to the epidemic differs in some stages; public behavior is related to regional location, which was shown by the close negative correlation between distance from the severely affected area and the sentiment index, and the level of economic development of the location and the focus index showed a significant positive correlation.
 
 
-![走势图](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/走势图.png)
+![走势图](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/走势图_.png)
 
 
-![词频统计](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/词频统计1.png)
+![词频统计](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/词频统计_.png)
 
 
-![区域差异](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/合并.jpg)
+![区域差异](https://github.com/hyliush/COVID-19-Public-behavior-sentiment-and-attention/tree/master/images/情感指数和关注指数.jpg)
 
 ## Citation
 If you use this work in a scientific publication, I would appreciate that you can also cite the following BibTex entry:
